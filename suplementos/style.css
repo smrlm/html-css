@@ -1,0 +1,78 @@
+body {
+  background: url('imagens/imagem-de-fundo.jpg');
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 0px;
+}
+
+#menu {
+  margin: 0;
+  background-color: black;
+  text-align: center;
+  padding: 18px;
+  font-weight: bold;
+}
+
+#menu a {
+  color: white;
+  font-size: 16px;
+  margin: auto;
+  text-decoration: none;
+}
+
+h1 {
+  padding-top: 20px;
+}
+
+#principal {
+  padding: 24px;
+  margin: auto;
+  height: 400px;
+  width: 800px;
+}
+
+#img-capa {
+  margin: auto;
+  width: 800px;
+}
+
+#img-estudo {
+  margin: auto;
+  width: 800px;
+  height: 400px;
+}
+
+#desconto strong {
+  color: red;
+}
+
+img {
+  border: solid black 10px;
+  margin: 40px;
+}
+
+p {
+  padding: 40px;
+}
+
+h2.sobre {
+  background-color: white;
+  padding: 8px;
+}
+
+h3 {
+  padding: 20px;
+}
+
+.creatinas {
+  width: 300px;
+  height: 400px;
+}
+
+footer {
+  margin-top: 80px;
+  text-align: center;
+  height: 20px;
+  background-color: grey;
+}
